@@ -20,7 +20,7 @@
 <details>
  <summary>Click to expand!</summary>
 
- ![Linux1 screenshot](C:\Users\Pictures\IT\Linux1.png)
+ ![Linux1 screenshot](C:\Users\Pictures\IT\Linux1.jpg)
  ![Linux2 screenshot](C:\Users\Pictures\IT\Linux2.png)
  ![Linux3 screenshot](C:\Users\Pictures\IT\Linux3.png)
  ![Linux4 screenshot](C:\Users\Pictures\IT\Linux4.png)

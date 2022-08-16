@@ -4,8 +4,8 @@
 <details>
  <summary>Click to expand!</summary>
 
- ![Coursera week 1 image](task_linux_cli\coursera_week1)
- ![Coursera week 2 image](task_linux_cli\coursera_week2)
+ ![Coursera week 1 image](coursera_week1.png)
+ ![Coursera week 2 image](task_linux_cli\coursera_week2.png)
  ![learngitbranching intro image](task_linux_cli\learngitbranching1.png )
  ![learngitbranching push&pull image](task_linux_cli\learngitbranching2.png )
  1. Everything for me was new in a course on 

@@ -30,9 +30,6 @@
  3. I'm not sure i will use these commands in the *future* in the Linux system(*because i don't know if i will install it*), but they will be *useful* in GIT.
 
 ### HTTP Protocol, part 1
-
- <summary>Click to expand!</summary>
-
  1. **Everything** for me was new in this article.
  2. I was **surprised** and was interested in status codes(*obviously because faced with 404 error xD*)
  3.  In the future i think **i will use** status codes *during development* and also other information from this article *during work with browser*.

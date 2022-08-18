@@ -16,8 +16,9 @@
 </details>
 
 ## Linux CLI, and HTTP
-# Linux Course
 <details>
+
+### Linux Course
  <summary>Click to expand!</summary>
 
  ![Linux1 image](./task_linux_cli/Linux1.png)
@@ -27,10 +28,9 @@
  1. **Everything** for me was new in this course and i really like examples with zoo, it makes learning **easier**.
  2. I was **surprised** by how interesting it is to use *manual* commands in the  software to move, remove files, etc.
  3. I'm not sure i will use these commands in the *future* in the Linux system(*because i don't know if i will install it*), but they will be *useful* in GIT.
-</details>
 
-# HTTP Protocol, part 1
-<details>
+### HTTP Protocol, part 1
+
  <summary>Click to expand!</summary>
 
  1. **Everything** for me was new in this article.

@@ -50,5 +50,7 @@
 1. **Everything** for me was new in this course and, i like *Fetching New Changes* module from coursera course week 3 and also *Updating the Local Repository*
 2. I was **surprised** how **important** using ***git pull*** before using ***git push*** :D
 3. In the future obviously, I'll use ***git merge***, ***git pull***, ***git push*** and also ***git rebase*** commands in my projects and also in my *future job*.
-P.S. Progressive usage Git Remotes was **really** hard:c
+
+- P.S. *Progressive usage Git Remotes* was **really** hard:c
+
 </details>
